@@ -1,8 +1,9 @@
 
-./node_modules
-./test
+node_modules
+test
 
 .env
+.gitignore
 package-lock.json
 
 *.test
